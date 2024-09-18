@@ -1,1 +1,1 @@
-This Project is part of PW Internship.
+This project is part of PW Internship.
